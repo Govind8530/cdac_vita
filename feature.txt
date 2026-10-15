@@ -1,3 +1,4 @@
 feature project started
 2nd step in
 practing git command
+complete 4 commit
