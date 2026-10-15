@@ -1,2 +1,3 @@
 feature project started
-2nd step in 
+2nd step in
+practing git command
